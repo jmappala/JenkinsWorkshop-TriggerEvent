@@ -14,6 +14,6 @@ pipeline {
     }
   }
   triggers {
-    eventTrigger(simpleMatch('JMAPPALAEvent'))
+    eventTrigger(simpleMatch('acruzs11Event'))
   }
 }
